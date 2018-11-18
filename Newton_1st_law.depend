@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1534186765 source:h:\saucer\assignment\project\newton_1st_law\main.cpp
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<stdlib.h>
+
+1534306467 source:h:\saucer\assignment\project\newton\main.cpp
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<stdlib.h>
+	<time.h>
+
